@@ -21,7 +21,7 @@ composer require r0ld3x/google-translater-php
 ## 1. Use with composer
 
 ```php
-require 'path/to/vendor/autoload.php';
+require 'vendor/autoload.php';
 
 use r0ld3x\Translate;
 $tr = new Translate;
