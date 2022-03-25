@@ -41,7 +41,7 @@ composer install
 > $tr->tr('Your text to translate', 'source_lang', 'target_lang');
 
 ```php
-$res = tr("Te quiero", 'es', 'en');
+$res = $tr->tr("Te quiero", 'es', 'en');
 echo $res; 
 // I love you
 ```
