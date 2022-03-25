@@ -1,0 +1,14 @@
+{
+    "name": "r0ld3x/google-translater-php",
+    "description": "Translate text to another language in php.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "r0ld3x\\": "src/"
+        }
+    },
+    "require": {
+        "r0ld3x/request": "dev-master"
+    }
+}
