@@ -32,7 +32,7 @@ $tr = new Translate;
 
 ```bash
 git clone https://github.com/r0ld3x/google-translater-php
-cd translate
+cd google-translater-php
 composer install
 ```
 
